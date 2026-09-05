@@ -7,7 +7,7 @@ function openModal(carName) {
     title.innerText = carName;
 
     text.innerText =
-        "Hubungi Muhammad Fatih Athallah untuk mendapatkan informasi harga, promo, simulasi kredit, dan ketersediaan unit " + carName + ".";
+        "Hubungi Pras Harlan untuk mendapatkan informasi harga, promo, simulasi kredit, dan ketersediaan unit " + carName + ".";
 
     modal.style.display = "block";
 }
